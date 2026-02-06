@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-02-06T19:00:03.566125+00:00",
+  "updated_at": "2026-02-06T19:15:11.097033+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 176.04,
-    "positions_value": 291.0,
-    "total_value": 467.03999999999996,
-    "total_pnl": -32.960000000000036,
-    "total_pnl_pct": -6.592000000000008,
+    "positions_value": 298.0,
+    "total_value": 474.03999999999996,
+    "total_pnl": -25.960000000000036,
+    "total_pnl_pct": -5.192000000000007,
     "total_cost_basis": 324.0
   },
   "positions": [
@@ -17,11 +17,11 @@
       "type": "OPTION",
       "quantity": 1.0,
       "entry_price": 1.56,
-      "current_price": 1.2,
-      "current_value": 123.0,
+      "current_price": 1.25,
+      "current_value": 128.0,
       "cost_basis": 156.0,
-      "pnl": -33.0,
-      "pnl_pct": -21.153846153846153,
+      "pnl": -28.0,
+      "pnl_pct": -17.94871794871795,
       "expiration": "2026-03-06",
       "entry_reason": "MACD bullish (0.91 > signal 0.68). Up 18.9% this month. RSI 63 (trending). ATM call for directional bet.",
       "date": "2026-02-06",
@@ -35,10 +35,10 @@
       "quantity": 1.0,
       "entry_price": 1.68,
       "current_price": 1.68,
-      "current_value": 168.0,
+      "current_value": 170.0,
       "cost_basis": 168.0,
-      "pnl": 0.0,
-      "pnl_pct": 0.0,
+      "pnl": 2.0,
+      "pnl_pct": 1.1904761904761905,
       "expiration": "2026-03-20",
       "entry_reason": "Screener score 7 (STRONG BUY). RSI 20.3 (extremely oversold). Analyst PT $17 (+55% upside). Oversold bounce play.",
       "date": "2026-02-06",
@@ -49,8 +49,8 @@
   "equity_history": [
     {
       "date": "2026-02-06",
-      "time": "2026-02-06 14:00",
-      "value": 467.03999999999996
+      "time": "2026-02-06 14:15",
+      "value": 474.03999999999996
     }
   ],
   "stats": {
