@@ -1,32 +1,15 @@
 {
-  "updated_at": "2026-02-06T19:30:19.695398+00:00",
+  "updated_at": "2026-02-06T19:45:27.564900+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 176.04,
-    "positions_value": 316.0,
-    "total_value": 492.03999999999996,
-    "total_pnl": -7.960000000000036,
-    "total_pnl_pct": -1.5920000000000072,
+    "positions_value": 318.0,
+    "total_value": 494.03999999999996,
+    "total_pnl": -5.960000000000036,
+    "total_pnl_pct": -1.1920000000000073,
     "total_cost_basis": 324.0
   },
   "positions": [
-    {
-      "symbol": "FLYW260320C00010000",
-      "ticker": "FLYW",
-      "description": "FLYW $10 Call Mar 20, '26",
-      "type": "OPTION",
-      "quantity": 1.0,
-      "entry_price": 1.68,
-      "current_price": 1.68,
-      "current_value": 180.0,
-      "cost_basis": 168.0,
-      "pnl": 12.0,
-      "pnl_pct": 7.142857142857142,
-      "expiration": "2026-03-20",
-      "entry_reason": "Screener score 7 (STRONG BUY). RSI 20.3 (extremely oversold). Analyst PT $17 (+55% upside). Oversold bounce play.",
-      "date": "2026-02-06",
-      "opened_at": "2026-02-06T16:07:46.072Z"
-    },
     {
       "symbol": "GME260306C00025000",
       "ticker": "GME",
@@ -34,7 +17,7 @@
       "type": "OPTION",
       "quantity": 1.0,
       "entry_price": 1.56,
-      "current_price": 1.35,
+      "current_price": 1.44,
       "current_value": 136.0,
       "cost_basis": 156.0,
       "pnl": -20.0,
@@ -43,14 +26,31 @@
       "entry_reason": "MACD bullish (0.91 > signal 0.68). Up 18.9% this month. RSI 63 (trending). ATM call for directional bet.",
       "date": "2026-02-06",
       "opened_at": "2026-02-06T16:07:46.407Z"
+    },
+    {
+      "symbol": "FLYW260320C00010000",
+      "ticker": "FLYW",
+      "description": "FLYW $10 Call Mar 20, '26",
+      "type": "OPTION",
+      "quantity": 1.0,
+      "entry_price": 1.68,
+      "current_price": 1.68,
+      "current_value": 182.0,
+      "cost_basis": 168.0,
+      "pnl": 14.0,
+      "pnl_pct": 8.333333333333332,
+      "expiration": "2026-03-20",
+      "entry_reason": "Screener score 7 (STRONG BUY). RSI 20.3 (extremely oversold). Analyst PT $17 (+55% upside). Oversold bounce play.",
+      "date": "2026-02-06",
+      "opened_at": "2026-02-06T16:07:46.072Z"
     }
   ],
   "closed_trades": [],
   "equity_history": [
     {
       "date": "2026-02-06",
-      "time": "2026-02-06 14:30",
-      "value": 492.03999999999996
+      "time": "2026-02-06 14:45",
+      "value": 494.03999999999996
     }
   ],
   "stats": {
