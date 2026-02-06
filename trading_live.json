@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-06T21:00:10.131297+00:00",
+  "updated_at": "2026-02-06T21:01:05.518195+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 176.04,
@@ -10,23 +10,6 @@
     "total_cost_basis": 324.0
   },
   "positions": [
-    {
-      "symbol": "FLYW260320C00010000",
-      "ticker": "FLYW",
-      "description": "FLYW $10 Call Mar 20, '26",
-      "type": "OPTION",
-      "quantity": 1.0,
-      "entry_price": 1.68,
-      "current_price": 1.68,
-      "current_value": 180.0,
-      "cost_basis": 168.0,
-      "pnl": 12.0,
-      "pnl_pct": 7.142857142857142,
-      "expiration": "2026-03-20",
-      "entry_reason": "Screener score 7 (STRONG BUY). RSI 20.3 (extremely oversold). Analyst PT $17 (+55% upside). Oversold bounce play.",
-      "date": "2026-02-06",
-      "opened_at": "2026-02-06T16:07:46.072Z"
-    },
     {
       "symbol": "GME260306C00025000",
       "ticker": "GME",
@@ -43,13 +26,30 @@
       "entry_reason": "MACD bullish (0.91 > signal 0.68). Up 18.9% this month. RSI 63 (trending). ATM call for directional bet.",
       "date": "2026-02-06",
       "opened_at": "2026-02-06T16:07:46.407Z"
+    },
+    {
+      "symbol": "FLYW260320C00010000",
+      "ticker": "FLYW",
+      "description": "FLYW $10 Call Mar 20, '26",
+      "type": "OPTION",
+      "quantity": 1.0,
+      "entry_price": 1.68,
+      "current_price": 1.68,
+      "current_value": 180.0,
+      "cost_basis": 168.0,
+      "pnl": 12.0,
+      "pnl_pct": 7.142857142857142,
+      "expiration": "2026-03-20",
+      "entry_reason": "Screener score 7 (STRONG BUY). RSI 20.3 (extremely oversold). Analyst PT $17 (+55% upside). Oversold bounce play.",
+      "date": "2026-02-06",
+      "opened_at": "2026-02-06T16:07:46.072Z"
     }
   ],
   "closed_trades": [],
   "equity_history": [
     {
       "date": "2026-02-06",
-      "time": "2026-02-06 16:00",
+      "time": "2026-02-06 16:01",
       "value": 505.03999999999996
     }
   ],
