@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-09T19:45:05.901875+00:00",
+  "updated_at": "2026-02-09T19:59:32.720552+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 281.05,
@@ -28,7 +28,40 @@
       "opened_at": "2026-02-06T21:00:00Z"
     }
   ],
-  "closed_trades": [],
+  "closed_trades": [
+    {
+      "id": 2,
+      "date": "2026-02-06",
+      "time": "11:07 ET",
+      "ticker": "GME",
+      "option": "GME260306C00025000",
+      "description": "GME $25 Call Mar 6, 2026",
+      "strategy": "Call Buy",
+      "side": "BUY_TO_OPEN",
+      "quantity": 1,
+      "entry_price": 1.56,
+      "cost_basis": 156.0,
+      "strike": 25.0,
+      "expiration": "2026-03-06",
+      "dte_at_entry": 28,
+      "underlying_at_entry": 24.96,
+      "breakeven": 26.56,
+      "entry_reason": "MACD bullish (0.91 > signal 0.68). Up 18.9% this month. RSI 63 (trending). ATM call for directional bet.",
+      "score_breakdown": "MACD bullish: +2, Monthly momentum: +1, Chris thesis: +2, Support bounce: +1 = 6",
+      "profit_target": "50% gain ($2.34) or underlying at $28",
+      "stop_loss": "50% loss ($0.78)",
+      "exit_at_dte": 14,
+      "status": "CLOSED",
+      "exit_price": 1.05,
+      "exit_date": "2026-02-09",
+      "pnl": -51.0,
+      "lessons": "Trailing stop system worked as designed. Entry signal was weaker (score 6 vs 7 for FLYW). GME had higher IV and faster time decay. Future: prefer score >= 7 entries.",
+      "exit_time": "10:06 ET",
+      "exit_reason": "Trailing stop triggered at -25%. Position was down -32.7% from entry. System executed autonomous exit to protect capital.",
+      "pnl_pct": -32.69230769230769,
+      "proceeds": 105.0
+    }
+  ],
   "equity_history": [
     {
       "date": "2026-02-06",
@@ -52,18 +85,18 @@
     },
     {
       "date": "2026-02-09",
-      "time": "2026-02-09 14:45",
+      "time": "2026-02-09 14:59",
       "value": 459.05
     }
   ],
   "stats": {
     "total_trades": 2,
-    "open_trades": 2,
-    "closed_trades": 0,
+    "open_trades": 1,
+    "closed_trades": 1,
     "wins": 0,
-    "losses": 0,
-    "best_trade": 0,
-    "worst_trade": 0,
+    "losses": 1,
+    "best_trade": -51.0,
+    "worst_trade": -51.0,
     "trading_since": "2026-02-06"
   }
 }
