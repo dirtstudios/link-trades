@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-09T15:01:16.730251+00:00",
+  "updated_at": "2026-02-09T15:02:38.981215+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 176.04,
@@ -11,23 +11,6 @@
   },
   "positions": [
     {
-      "symbol": "FLYW260320C00010000-OPTION",
-      "ticker": "FLYW",
-      "description": "FLYW $10 Call Mar 20, '26",
-      "type": "OPTION",
-      "quantity": 1.0,
-      "entry_price": 0,
-      "current_price": 1.7,
-      "current_value": 170.0,
-      "cost_basis": 0,
-      "pnl": 170.0,
-      "pnl_pct": 0,
-      "expiration": "",
-      "entry_reason": "",
-      "date": "",
-      "opened_at": "2026-02-06T21:00:00Z"
-    },
-    {
       "symbol": "GME260306C00025000-OPTION",
       "ticker": "GME",
       "description": "GME $25 Call Mar 06, '26",
@@ -38,6 +21,23 @@
       "current_value": 116.0,
       "cost_basis": 0,
       "pnl": 116.0,
+      "pnl_pct": 0,
+      "expiration": "",
+      "entry_reason": "",
+      "date": "",
+      "opened_at": "2026-02-06T21:00:00Z"
+    },
+    {
+      "symbol": "FLYW260320C00010000-OPTION",
+      "ticker": "FLYW",
+      "description": "FLYW $10 Call Mar 20, '26",
+      "type": "OPTION",
+      "quantity": 1.0,
+      "entry_price": 0,
+      "current_price": 1.7,
+      "current_value": 170.0,
+      "cost_basis": 0,
+      "pnl": 170.0,
       "pnl_pct": 0,
       "expiration": "",
       "entry_reason": "",
@@ -69,7 +69,7 @@
     },
     {
       "date": "2026-02-09",
-      "time": "2026-02-09 10:01",
+      "time": "2026-02-09 10:02",
       "value": 462.03999999999996
     }
   ],
