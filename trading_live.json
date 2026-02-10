@@ -1,32 +1,15 @@
 {
-  "updated_at": "2026-02-10T18:30:06.479397+00:00",
+  "updated_at": "2026-02-10T18:41:22.002884+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 43.07,
-    "positions_value": 372.0,
-    "total_value": 415.07,
-    "total_pnl": -84.93,
-    "total_pnl_pct": -16.986,
+    "positions_value": 368.0,
+    "total_value": 411.07,
+    "total_pnl": -88.93,
+    "total_pnl_pct": -17.786,
     "total_cost_basis": 0
   },
   "positions": [
-    {
-      "symbol": "DDOG260320C00155000-OPTION",
-      "ticker": "DDOG",
-      "description": "DDOG $155 Call Mar 20, '26",
-      "type": "OPTION",
-      "quantity": 1.0,
-      "entry_price": 0,
-      "current_price": 2.04,
-      "current_value": 204.0,
-      "cost_basis": 0,
-      "pnl": 204.0,
-      "pnl_pct": 0,
-      "expiration": "",
-      "entry_reason": "",
-      "date": "",
-      "opened_at": "2026-02-10T15:20:59.293Z"
-    },
     {
       "symbol": "FLYW260320C00010000-OPTION",
       "ticker": "FLYW",
@@ -34,15 +17,32 @@
       "type": "OPTION",
       "quantity": 1.0,
       "entry_price": 0,
-      "current_price": 1.68,
-      "current_value": 168.0,
+      "current_price": 1.65,
+      "current_value": 165.0,
       "cost_basis": 0,
-      "pnl": 168.0,
+      "pnl": 165.0,
       "pnl_pct": 0,
       "expiration": "",
       "entry_reason": "",
       "date": "",
       "opened_at": "2026-02-06T21:00:00Z"
+    },
+    {
+      "symbol": "DDOG260320C00155000-OPTION",
+      "ticker": "DDOG",
+      "description": "DDOG $155 Call Mar 20, '26",
+      "type": "OPTION",
+      "quantity": 1.0,
+      "entry_price": 0,
+      "current_price": 2.03,
+      "current_value": 203.0,
+      "cost_basis": 0,
+      "pnl": 203.0,
+      "pnl_pct": 0,
+      "expiration": "",
+      "entry_reason": "",
+      "date": "",
+      "opened_at": "2026-02-10T15:20:59.293Z"
     }
   ],
   "closed_trades": [
@@ -107,8 +107,8 @@
     },
     {
       "date": "2026-02-10",
-      "time": "2026-02-10 13:30",
-      "value": 415.07
+      "time": "2026-02-10 13:41",
+      "value": 411.07
     }
   ],
   "stats": {
