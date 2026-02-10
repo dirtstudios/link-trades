@@ -1,15 +1,32 @@
 {
-  "updated_at": "2026-02-10T15:15:06.948037+00:00",
+  "updated_at": "2026-02-10T15:30:06.628523+00:00",
   "account": {
     "starting_balance": 500.0,
-    "cash": 281.05,
-    "positions_value": 182.0,
-    "total_value": 463.05,
-    "total_pnl": -36.94999999999999,
-    "total_pnl_pct": -7.389999999999998,
+    "cash": 43.07,
+    "positions_value": 430.0,
+    "total_value": 473.07,
+    "total_pnl": -26.930000000000007,
+    "total_pnl_pct": -5.386000000000001,
     "total_cost_basis": 0
   },
   "positions": [
+    {
+      "symbol": "DDOG260320C00155000-OPTION",
+      "ticker": "DDOG",
+      "description": "DDOG $155 Call Mar 20, '26",
+      "type": "OPTION",
+      "quantity": 1.0,
+      "entry_price": 0,
+      "current_price": 2.48,
+      "current_value": 248.0,
+      "cost_basis": 0,
+      "pnl": 248.0,
+      "pnl_pct": 0,
+      "expiration": "",
+      "entry_reason": "",
+      "date": "",
+      "opened_at": "2026-02-10T15:20:59.293Z"
+    },
     {
       "symbol": "FLYW260320C00010000-OPTION",
       "ticker": "FLYW",
@@ -90,8 +107,8 @@
     },
     {
       "date": "2026-02-10",
-      "time": "2026-02-10 10:15",
-      "value": 463.05
+      "time": "2026-02-10 10:30",
+      "value": 473.07
     }
   ],
   "stats": {
