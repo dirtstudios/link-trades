@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-10T18:01:29.345929+00:00",
+  "updated_at": "2026-02-10T18:03:17.609299+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 43.07,
@@ -10,23 +10,6 @@
     "total_cost_basis": 0
   },
   "positions": [
-    {
-      "symbol": "FLYW260320C00010000-OPTION",
-      "ticker": "FLYW",
-      "description": "FLYW $10 Call Mar 20, '26",
-      "type": "OPTION",
-      "quantity": 1.0,
-      "entry_price": 0,
-      "current_price": 1.7,
-      "current_value": 170.0,
-      "cost_basis": 0,
-      "pnl": 170.0,
-      "pnl_pct": 0,
-      "expiration": "",
-      "entry_reason": "",
-      "date": "",
-      "opened_at": "2026-02-06T21:00:00Z"
-    },
     {
       "symbol": "DDOG260320C00155000-OPTION",
       "ticker": "DDOG",
@@ -43,6 +26,23 @@
       "entry_reason": "",
       "date": "",
       "opened_at": "2026-02-10T15:20:59.293Z"
+    },
+    {
+      "symbol": "FLYW260320C00010000-OPTION",
+      "ticker": "FLYW",
+      "description": "FLYW $10 Call Mar 20, '26",
+      "type": "OPTION",
+      "quantity": 1.0,
+      "entry_price": 0,
+      "current_price": 1.7,
+      "current_value": 170.0,
+      "cost_basis": 0,
+      "pnl": 170.0,
+      "pnl_pct": 0,
+      "expiration": "",
+      "entry_reason": "",
+      "date": "",
+      "opened_at": "2026-02-06T21:00:00Z"
     }
   ],
   "closed_trades": [
@@ -107,7 +107,7 @@
     },
     {
       "date": "2026-02-10",
-      "time": "2026-02-10 13:01",
+      "time": "2026-02-10 13:03",
       "value": 449.07
     }
   ],
