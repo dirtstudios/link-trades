@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-02-11T19:45:06.507838+00:00",
+  "updated_at": "2026-02-11T19:55:03.226842+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 25.14,
-    "positions_value": 280.0,
-    "total_value": 305.14,
-    "total_pnl": -194.86,
-    "total_pnl_pct": -38.972,
+    "positions_value": 278.0,
+    "total_value": 303.14,
+    "total_pnl": -196.86,
+    "total_pnl_pct": -39.372,
     "total_cost_basis": 294.0
   },
   "positions": [
@@ -17,11 +17,11 @@
       "type": "OPTION",
       "quantity": 1.0,
       "entry_price": 1.68,
-      "current_price": 1.6,
-      "current_value": 160.0,
+      "current_price": 1.58,
+      "current_value": 158.0,
       "cost_basis": 168.0,
-      "pnl": -8.0,
-      "pnl_pct": -4.761904761904762,
+      "pnl": -10.0,
+      "pnl_pct": -5.952380952380952,
       "expiration": "2026-03-20",
       "entry_reason": "Screener score 7 (STRONG BUY). RSI 20.3 (extremely oversold). Analyst PT $17 (+55% upside). Oversold bounce play.",
       "date": "2026-02-06",
@@ -144,8 +144,8 @@
     },
     {
       "date": "2026-02-11",
-      "time": "2026-02-11 14:45",
-      "value": 305.14
+      "time": "2026-02-11 14:55",
+      "value": 303.14
     }
   ],
   "stats": {
