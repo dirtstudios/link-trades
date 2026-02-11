@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-11T19:40:29.796363+00:00",
+  "updated_at": "2026-02-11T19:42:36.004015+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 25.14,
@@ -77,6 +77,38 @@
       "exit_reason": "Trailing stop triggered at -25%. Position was down -32.7% from entry. System executed autonomous exit to protect capital.",
       "pnl_pct": -32.69230769230769,
       "proceeds": 105.0
+    },
+    {
+      "id": 4,
+      "date": "2026-02-10",
+      "time": "10:00 ET",
+      "ticker": "DDOG",
+      "option": "DDOG260320C00155000",
+      "description": "DDOG $155 Call Mar 20, 2026",
+      "strategy": "Call Buy",
+      "side": "BUY_TO_OPEN",
+      "quantity": 1,
+      "entry_price": 2.39,
+      "cost_basis": 239.0,
+      "strike": 155.0,
+      "expiration": "2026-03-20",
+      "dte_at_entry": 38,
+      "underlying_at_entry": 0,
+      "breakeven": 157.39,
+      "entry_reason": "Screener signal. Options play on DDOG.",
+      "score_breakdown": "",
+      "profit_target": "",
+      "stop_loss": "-30% trailing stop",
+      "exit_at_dte": 14,
+      "status": "CLOSED",
+      "exit_price": 1.54,
+      "exit_date": "2026-02-11",
+      "exit_time": "10:00 ET",
+      "exit_reason": "Trailing stop hit at -35.7% (stop was -30%). Peak was +10.1%.",
+      "pnl": -85.0,
+      "pnl_pct": -35.56,
+      "proceeds": 154.0,
+      "lessons": "Far OTM call on weak signal. Hit trailing stop. Need stronger conviction for high-strike options."
     }
   ],
   "equity_history": [
@@ -112,18 +144,18 @@
     },
     {
       "date": "2026-02-11",
-      "time": "2026-02-11 14:40",
+      "time": "2026-02-11 14:42",
       "value": 305.14
     }
   ],
   "stats": {
-    "total_trades": 3,
+    "total_trades": 4,
     "open_trades": 2,
-    "closed_trades": 1,
+    "closed_trades": 2,
     "wins": 0,
-    "losses": 1,
+    "losses": 2,
     "best_trade": -51.0,
-    "worst_trade": -51.0,
+    "worst_trade": -85.0,
     "trading_since": "2026-02-06"
   }
 }
