@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-11T22:02:29.612573+00:00",
+  "updated_at": "2026-02-11T22:02:54.008971+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 25.14,
@@ -10,23 +10,6 @@
     "total_cost_basis": 294.0
   },
   "positions": [
-    {
-      "symbol": "SNAP260320C00005000-OPTION",
-      "ticker": "SNAP",
-      "description": "SNAP $5 Call Mar 20, '26",
-      "type": "OPTION",
-      "quantity": 3.0,
-      "entry_price": 0.42,
-      "current_price": 0,
-      "current_value": 114.0,
-      "cost_basis": 126.0,
-      "pnl": -12.0,
-      "pnl_pct": -9.523809523809524,
-      "expiration": "2026-03-20",
-      "entry_reason": "Screener score 10 (STRONG BUY). RSI 19 + MFI 15 = deeply oversold on price AND volume. Near lower BB (9%). Mean reversion bounce play.",
-      "date": "2026-02-11",
-      "opened_at": "2026-02-11T19:22:04.362Z"
-    },
     {
       "symbol": "FLYW260320C00010000-OPTION",
       "ticker": "FLYW",
@@ -43,6 +26,23 @@
       "entry_reason": "Screener score 7 (STRONG BUY). RSI 20.3 (extremely oversold). Analyst PT $17 (+55% upside). Oversold bounce play.",
       "date": "2026-02-06",
       "opened_at": "2026-02-06T21:00:00Z"
+    },
+    {
+      "symbol": "SNAP260320C00005000-OPTION",
+      "ticker": "SNAP",
+      "description": "SNAP $5 Call Mar 20, '26",
+      "type": "OPTION",
+      "quantity": 3.0,
+      "entry_price": 0.42,
+      "current_price": 0,
+      "current_value": 114.0,
+      "cost_basis": 126.0,
+      "pnl": -12.0,
+      "pnl_pct": -9.523809523809524,
+      "expiration": "2026-03-20",
+      "entry_reason": "Screener score 10 (STRONG BUY). RSI 19 + MFI 15 = deeply oversold on price AND volume. Near lower BB (9%). Mean reversion bounce play.",
+      "date": "2026-02-11",
+      "opened_at": "2026-02-11T19:22:04.362Z"
     }
   ],
   "closed_trades": [
