@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-11T19:40:09.852907+00:00",
+  "updated_at": "2026-02-11T19:40:29.796363+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 25.14,
@@ -7,7 +7,7 @@
     "total_value": 305.14,
     "total_pnl": -194.86,
     "total_pnl_pct": -38.972,
-    "total_cost_basis": 0
+    "total_cost_basis": 294.0
   },
   "positions": [
     {
@@ -16,15 +16,15 @@
       "description": "FLYW $10 Call Mar 20, '26",
       "type": "OPTION",
       "quantity": 1.0,
-      "entry_price": 0,
+      "entry_price": 1.68,
       "current_price": 1.6,
       "current_value": 160.0,
-      "cost_basis": 0,
-      "pnl": 160.0,
-      "pnl_pct": 0,
-      "expiration": "",
-      "entry_reason": "",
-      "date": "",
+      "cost_basis": 168.0,
+      "pnl": -8.0,
+      "pnl_pct": -4.761904761904762,
+      "expiration": "2026-03-20",
+      "entry_reason": "Screener score 7 (STRONG BUY). RSI 20.3 (extremely oversold). Analyst PT $17 (+55% upside). Oversold bounce play.",
+      "date": "2026-02-06",
       "opened_at": "2026-02-06T21:00:00Z"
     },
     {
@@ -33,15 +33,15 @@
       "description": "SNAP $5 Call Mar 20, '26",
       "type": "OPTION",
       "quantity": 3.0,
-      "entry_price": 0,
+      "entry_price": 0.42,
       "current_price": 0,
       "current_value": 120.0,
-      "cost_basis": 0,
-      "pnl": 120.0,
-      "pnl_pct": 0,
-      "expiration": "",
-      "entry_reason": "",
-      "date": "",
+      "cost_basis": 126.0,
+      "pnl": -6.0,
+      "pnl_pct": -4.761904761904762,
+      "expiration": "2026-03-20",
+      "entry_reason": "Screener score 10 (STRONG BUY). RSI 19 + MFI 15 = deeply oversold on price AND volume. Near lower BB (9%). Mean reversion bounce play.",
+      "date": "2026-02-11",
       "opened_at": "2026-02-11T19:22:04.362Z"
     }
   ],
