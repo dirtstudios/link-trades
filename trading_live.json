@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-11T19:39:21.531595+00:00",
+  "updated_at": "2026-02-11T19:40:09.852907+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 25.14,
@@ -10,23 +10,6 @@
     "total_cost_basis": 0
   },
   "positions": [
-    {
-      "symbol": "SNAP260320C00005000-OPTION",
-      "ticker": "SNAP",
-      "description": "SNAP $5 Call Mar 20, '26",
-      "type": "OPTION",
-      "quantity": 3.0,
-      "entry_price": 0,
-      "current_price": 0,
-      "current_value": 120.0,
-      "cost_basis": 0,
-      "pnl": 120.0,
-      "pnl_pct": 0,
-      "expiration": "",
-      "entry_reason": "",
-      "date": "",
-      "opened_at": "2026-02-11T19:22:04.362Z"
-    },
     {
       "symbol": "FLYW260320C00010000-OPTION",
       "ticker": "FLYW",
@@ -43,6 +26,23 @@
       "entry_reason": "",
       "date": "",
       "opened_at": "2026-02-06T21:00:00Z"
+    },
+    {
+      "symbol": "SNAP260320C00005000-OPTION",
+      "ticker": "SNAP",
+      "description": "SNAP $5 Call Mar 20, '26",
+      "type": "OPTION",
+      "quantity": 3.0,
+      "entry_price": 0,
+      "current_price": 0,
+      "current_value": 120.0,
+      "cost_basis": 0,
+      "pnl": 120.0,
+      "pnl_pct": 0,
+      "expiration": "",
+      "entry_reason": "",
+      "date": "",
+      "opened_at": "2026-02-11T19:22:04.362Z"
     }
   ],
   "closed_trades": [
@@ -112,13 +112,13 @@
     },
     {
       "date": "2026-02-11",
-      "time": "2026-02-11 14:39",
+      "time": "2026-02-11 14:40",
       "value": 305.14
     }
   ],
   "stats": {
-    "total_trades": 2,
-    "open_trades": 1,
+    "total_trades": 3,
+    "open_trades": 2,
     "closed_trades": 1,
     "wins": 0,
     "losses": 1,
