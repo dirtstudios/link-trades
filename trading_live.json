@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-02-12T15:02:59.797436+00:00",
+  "updated_at": "2026-02-12T15:15:06.319779+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 25.14,
-    "positions_value": 251.0,
-    "total_value": 276.14,
-    "total_pnl": -223.86,
-    "total_pnl_pct": -44.772,
+    "positions_value": 254.0,
+    "total_value": 279.14,
+    "total_pnl": -220.86,
+    "total_pnl_pct": -44.172,
     "total_cost_basis": 294.0
   },
   "positions": [
@@ -35,10 +35,10 @@
       "quantity": 3.0,
       "entry_price": 0.42,
       "current_price": 0,
-      "current_value": 93.0,
+      "current_value": 96.0,
       "cost_basis": 126.0,
-      "pnl": -33.0,
-      "pnl_pct": -26.190476190476193,
+      "pnl": -30.0,
+      "pnl_pct": -23.809523809523807,
       "expiration": "2026-03-20",
       "entry_reason": "Screener score 10 (STRONG BUY). RSI 19 + MFI 15 = deeply oversold on price AND volume. Near lower BB (9%). Mean reversion bounce play.",
       "date": "2026-02-11",
@@ -149,8 +149,8 @@
     },
     {
       "date": "2026-02-12",
-      "time": "2026-02-12 10:02",
-      "value": 276.14
+      "time": "2026-02-12 10:15",
+      "value": 279.14
     }
   ],
   "stats": {
