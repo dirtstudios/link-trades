@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-02-12T16:15:07.953170+00:00",
+  "updated_at": "2026-02-12T16:17:17.756925+00:00",
   "account": {
     "starting_balance": 500.0,
-    "cash": 25.14,
-    "positions_value": 242.0,
-    "total_value": 267.14,
-    "total_pnl": -232.86,
-    "total_pnl_pct": -46.572,
-    "total_cost_basis": 294.0
+    "cash": 106.17,
+    "positions_value": 158.0,
+    "total_value": 264.17,
+    "total_pnl": -235.82999999999998,
+    "total_pnl_pct": -47.166,
+    "total_cost_basis": 168.0
   },
   "positions": [
     {
@@ -26,23 +26,6 @@
       "entry_reason": "Screener score 7 (STRONG BUY). RSI 20.3 (extremely oversold). Analyst PT $17 (+55% upside). Oversold bounce play.",
       "date": "2026-02-06",
       "opened_at": "2026-02-06T21:00:00Z"
-    },
-    {
-      "symbol": "SNAP260320C00005000-OPTION",
-      "ticker": "SNAP",
-      "description": "SNAP $5 Call Mar 20, '26",
-      "type": "OPTION",
-      "quantity": 3.0,
-      "entry_price": 0.42,
-      "current_price": 0,
-      "current_value": 84.0,
-      "cost_basis": 126.0,
-      "pnl": -42.0,
-      "pnl_pct": -33.33333333333333,
-      "expiration": "2026-03-20",
-      "entry_reason": "Screener score 10 (STRONG BUY). RSI 19 + MFI 15 = deeply oversold on price AND volume. Near lower BB (9%). Mean reversion bounce play.",
-      "date": "2026-02-11",
-      "opened_at": "2026-02-11T21:00:00Z"
     }
   ],
   "closed_trades": [
@@ -77,6 +60,38 @@
       "exit_reason": "Trailing stop triggered at -25%. Position was down -32.7% from entry. System executed autonomous exit to protect capital.",
       "pnl_pct": -32.69230769230769,
       "proceeds": 105.0
+    },
+    {
+      "id": 3,
+      "date": "2026-02-11",
+      "time": "14:22 ET",
+      "ticker": "SNAP",
+      "option": "SNAP260320C00005000",
+      "description": "SNAP $5 Call Mar 20, 2026",
+      "strategy": "Call Buy",
+      "side": "BUY_TO_OPEN",
+      "quantity": 3,
+      "entry_price": 0.42,
+      "cost_basis": 126.0,
+      "strike": 5.0,
+      "expiration": "2026-03-20",
+      "dte_at_entry": 37,
+      "underlying_at_entry": 5.01,
+      "breakeven": 5.42,
+      "entry_reason": "Screener score 10 (STRONG BUY). RSI 19 + MFI 15 = deeply oversold on price AND volume. Near lower BB (9%). Mean reversion bounce play.",
+      "score_breakdown": "RSI <30: +3, MACD improving: +1, Near lower BB: +2, MFI oversold: +2, Pullback: +1, Finviz oversold: +1 = 10",
+      "profit_target": "50% gain ($0.63) or underlying at $6",
+      "stop_loss": "50% loss ($0.21)",
+      "exit_at_dte": 14,
+      "status": "CLOSED",
+      "exit_price": 0.27,
+      "exit_date": "2026-02-12",
+      "pnl": -45.0,
+      "lessons": "Oversold bounce play failed. RSI/MFI oversold does not guarantee reversal. SNAP continued lower after entry.",
+      "exit_time": "11:16 ET",
+      "exit_reason": "Trailing stop hit at -32.8% (stop was -30%). Autonomous exit.",
+      "pnl_pct": -35.7,
+      "proceeds": 81.0
     },
     {
       "id": 4,
@@ -149,17 +164,17 @@
     },
     {
       "date": "2026-02-12",
-      "time": "2026-02-12 11:15",
-      "value": 267.14
+      "time": "2026-02-12 11:17",
+      "value": 264.17
     }
   ],
   "stats": {
     "total_trades": 4,
-    "open_trades": 2,
-    "closed_trades": 2,
+    "open_trades": 1,
+    "closed_trades": 3,
     "wins": 0,
-    "losses": 2,
-    "best_trade": -51.0,
+    "losses": 3,
+    "best_trade": -45.0,
     "worst_trade": -85.0,
     "trading_since": "2026-02-06"
   }
