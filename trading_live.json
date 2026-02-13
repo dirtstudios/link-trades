@@ -1,32 +1,15 @@
 {
-  "updated_at": "2026-02-13T19:04:04.633852+00:00",
+  "updated_at": "2026-02-13T19:15:05.744502+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 21.19,
-    "positions_value": 267.0,
-    "total_value": 288.19,
-    "total_pnl": -211.81,
-    "total_pnl_pct": -42.362,
+    "positions_value": 272.0,
+    "total_value": 293.19,
+    "total_pnl": -206.81,
+    "total_pnl_pct": -41.362,
     "total_cost_basis": 253.0
   },
   "positions": [
-    {
-      "symbol": "FLYW260320C00010000-OPTION",
-      "ticker": "FLYW",
-      "description": "FLYW $10 Call Mar 20, '26",
-      "type": "OPTION",
-      "quantity": 1.0,
-      "entry_price": 1.68,
-      "current_price": 1.55,
-      "current_value": 155.0,
-      "cost_basis": 168.0,
-      "pnl": -13.0,
-      "pnl_pct": -7.738095238095238,
-      "expiration": "2026-03-20",
-      "entry_reason": "Screener score 7 (STRONG BUY). RSI 20.3 (extremely oversold). Analyst PT $17 (+55% upside). Oversold bounce play.",
-      "date": "2026-02-06",
-      "opened_at": "2026-02-06T21:00:00Z"
-    },
     {
       "symbol": "PINS260320C00015000-OPTION",
       "ticker": "PINS",
@@ -43,6 +26,23 @@
       "entry_reason": "RSI 14 (extremely oversold after 15% layoff on Jan 27). Earnings this week = catalyst. Pattern matches FSLY setup (oversold + earnings = bounce). Score 5 with limited data.",
       "date": "2026-02-13",
       "opened_at": "2026-02-13T14:39:35.878Z"
+    },
+    {
+      "symbol": "FLYW260320C00010000-OPTION",
+      "ticker": "FLYW",
+      "description": "FLYW $10 Call Mar 20, '26",
+      "type": "OPTION",
+      "quantity": 1.0,
+      "entry_price": 1.68,
+      "current_price": 1.6,
+      "current_value": 160.0,
+      "cost_basis": 168.0,
+      "pnl": -8.0,
+      "pnl_pct": -4.761904761904762,
+      "expiration": "2026-03-20",
+      "entry_reason": "Screener score 7 (STRONG BUY). RSI 20.3 (extremely oversold). Analyst PT $17 (+55% upside). Oversold bounce play.",
+      "date": "2026-02-06",
+      "opened_at": "2026-02-06T21:00:00Z"
     }
   ],
   "closed_trades": [
@@ -186,8 +186,8 @@
     },
     {
       "date": "2026-02-13",
-      "time": "2026-02-13 14:04",
-      "value": 288.19
+      "time": "2026-02-13 14:15",
+      "value": 293.19
     }
   ],
   "stats": {
