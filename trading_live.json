@@ -1,32 +1,15 @@
 {
-  "updated_at": "2026-02-13T17:33:05.394222+00:00",
+  "updated_at": "2026-02-13T17:45:06.104951+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 21.19,
-    "positions_value": 267.0,
-    "total_value": 288.19,
-    "total_pnl": -211.81,
-    "total_pnl_pct": -42.362,
+    "positions_value": 260.0,
+    "total_value": 281.19,
+    "total_pnl": -218.81,
+    "total_pnl_pct": -43.762,
     "total_cost_basis": 253.0
   },
   "positions": [
-    {
-      "symbol": "PINS260320C00015000-OPTION",
-      "ticker": "PINS",
-      "description": "PINS $15 Call Mar 20, '26",
-      "type": "OPTION",
-      "quantity": 1.0,
-      "entry_price": 0.85,
-      "current_price": 1.15,
-      "current_value": 115.0,
-      "cost_basis": 85.0,
-      "pnl": 30.0,
-      "pnl_pct": 35.294117647058826,
-      "expiration": "2026-03-20",
-      "entry_reason": "RSI 14 (extremely oversold after 15% layoff on Jan 27). Earnings this week = catalyst. Pattern matches FSLY setup (oversold + earnings = bounce). Score 5 with limited data.",
-      "date": "2026-02-13",
-      "opened_at": "2026-02-13T14:39:35.878Z"
-    },
     {
       "symbol": "FLYW260320C00010000-OPTION",
       "ticker": "FLYW",
@@ -43,6 +26,23 @@
       "entry_reason": "Screener score 7 (STRONG BUY). RSI 20.3 (extremely oversold). Analyst PT $17 (+55% upside). Oversold bounce play.",
       "date": "2026-02-06",
       "opened_at": "2026-02-06T21:00:00Z"
+    },
+    {
+      "symbol": "PINS260320C00015000-OPTION",
+      "ticker": "PINS",
+      "description": "PINS $15 Call Mar 20, '26",
+      "type": "OPTION",
+      "quantity": 1.0,
+      "entry_price": 0.85,
+      "current_price": 1.08,
+      "current_value": 108.0,
+      "cost_basis": 85.0,
+      "pnl": 23.0,
+      "pnl_pct": 27.058823529411764,
+      "expiration": "2026-03-20",
+      "entry_reason": "RSI 14 (extremely oversold after 15% layoff on Jan 27). Earnings this week = catalyst. Pattern matches FSLY setup (oversold + earnings = bounce). Score 5 with limited data.",
+      "date": "2026-02-13",
+      "opened_at": "2026-02-13T14:39:35.878Z"
     }
   ],
   "closed_trades": [
@@ -186,8 +186,8 @@
     },
     {
       "date": "2026-02-13",
-      "time": "2026-02-13 12:33",
-      "value": 288.19
+      "time": "2026-02-13 12:45",
+      "value": 281.19
     }
   ],
   "stats": {
