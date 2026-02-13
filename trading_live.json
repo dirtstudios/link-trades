@@ -1,32 +1,15 @@
 {
-  "updated_at": "2026-02-13T18:40:26.533573+00:00",
+  "updated_at": "2026-02-13T18:45:06.044146+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 21.19,
-    "positions_value": 268.0,
-    "total_value": 289.19,
-    "total_pnl": -210.81,
-    "total_pnl_pct": -42.162,
+    "positions_value": 271.0,
+    "total_value": 292.19,
+    "total_pnl": -207.81,
+    "total_pnl_pct": -41.562,
     "total_cost_basis": 253.0
   },
   "positions": [
-    {
-      "symbol": "PINS260320C00015000-OPTION",
-      "ticker": "PINS",
-      "description": "PINS $15 Call Mar 20, '26",
-      "type": "OPTION",
-      "quantity": 1.0,
-      "entry_price": 0.85,
-      "current_price": 1.18,
-      "current_value": 118.0,
-      "cost_basis": 85.0,
-      "pnl": 33.0,
-      "pnl_pct": 38.82352941176471,
-      "expiration": "2026-03-20",
-      "entry_reason": "RSI 14 (extremely oversold after 15% layoff on Jan 27). Earnings this week = catalyst. Pattern matches FSLY setup (oversold + earnings = bounce). Score 5 with limited data.",
-      "date": "2026-02-13",
-      "opened_at": "2026-02-13T14:39:35.878Z"
-    },
     {
       "symbol": "FLYW260320C00010000-OPTION",
       "ticker": "FLYW",
@@ -34,15 +17,32 @@
       "type": "OPTION",
       "quantity": 1.0,
       "entry_price": 1.68,
-      "current_price": 1.5,
-      "current_value": 150.0,
+      "current_price": 1.52,
+      "current_value": 152.0,
       "cost_basis": 168.0,
-      "pnl": -18.0,
-      "pnl_pct": -10.714285714285714,
+      "pnl": -16.0,
+      "pnl_pct": -9.523809523809524,
       "expiration": "2026-03-20",
       "entry_reason": "Screener score 7 (STRONG BUY). RSI 20.3 (extremely oversold). Analyst PT $17 (+55% upside). Oversold bounce play.",
       "date": "2026-02-06",
       "opened_at": "2026-02-06T21:00:00Z"
+    },
+    {
+      "symbol": "PINS260320C00015000-OPTION",
+      "ticker": "PINS",
+      "description": "PINS $15 Call Mar 20, '26",
+      "type": "OPTION",
+      "quantity": 1.0,
+      "entry_price": 0.85,
+      "current_price": 1.19,
+      "current_value": 119.0,
+      "cost_basis": 85.0,
+      "pnl": 34.0,
+      "pnl_pct": 40.0,
+      "expiration": "2026-03-20",
+      "entry_reason": "RSI 14 (extremely oversold after 15% layoff on Jan 27). Earnings this week = catalyst. Pattern matches FSLY setup (oversold + earnings = bounce). Score 5 with limited data.",
+      "date": "2026-02-13",
+      "opened_at": "2026-02-13T14:39:35.878Z"
     }
   ],
   "closed_trades": [
@@ -186,8 +186,8 @@
     },
     {
       "date": "2026-02-13",
-      "time": "2026-02-13 13:40",
-      "value": 289.19
+      "time": "2026-02-13 13:45",
+      "value": 292.19
     }
   ],
   "stats": {
