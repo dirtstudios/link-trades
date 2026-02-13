@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-02-13T16:00:06.616599+00:00",
+  "updated_at": "2026-02-13T16:05:42.160083+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 21.19,
-    "positions_value": 227.0,
-    "total_value": 248.19,
-    "total_pnl": -251.81,
-    "total_pnl_pct": -50.361999999999995,
+    "positions_value": 237.0,
+    "total_value": 258.19,
+    "total_pnl": -241.81,
+    "total_pnl_pct": -48.362,
     "total_cost_basis": 253.0
   },
   "positions": [
@@ -17,11 +17,11 @@
       "type": "OPTION",
       "quantity": 1.0,
       "entry_price": 0.85,
-      "current_price": 0.82,
-      "current_value": 82.0,
+      "current_price": 0.92,
+      "current_value": 92.0,
       "cost_basis": 85.0,
-      "pnl": -3.0,
-      "pnl_pct": -3.5294117647058822,
+      "pnl": 7.0,
+      "pnl_pct": 8.235294117647058,
       "expiration": "2026-03-20",
       "entry_reason": "RSI 14 (extremely oversold after 15% layoff on Jan 27). Earnings this week = catalyst. Pattern matches FSLY setup (oversold + earnings = bounce). Score 5 with limited data.",
       "date": "2026-02-13",
@@ -186,8 +186,8 @@
     },
     {
       "date": "2026-02-13",
-      "time": "2026-02-13 11:00",
-      "value": 248.19
+      "time": "2026-02-13 11:05",
+      "value": 258.19
     }
   ],
   "stats": {
