@@ -1,15 +1,32 @@
 {
-  "updated_at": "2026-02-13T14:30:05.313226+00:00",
+  "updated_at": "2026-02-13T14:40:04.562463+00:00",
   "account": {
     "starting_balance": 500.0,
-    "cash": 106.17,
-    "positions_value": 135.0,
-    "total_value": 241.17000000000002,
-    "total_pnl": -258.83,
-    "total_pnl_pct": -51.766,
-    "total_cost_basis": 168.0
+    "cash": 21.19,
+    "positions_value": 230.0,
+    "total_value": 251.19,
+    "total_pnl": -248.81,
+    "total_pnl_pct": -49.762,
+    "total_cost_basis": 253.0
   },
   "positions": [
+    {
+      "symbol": "PINS260320C00015000-OPTION",
+      "ticker": "PINS",
+      "description": "PINS $15 Call Mar 20, '26",
+      "type": "OPTION",
+      "quantity": 1.0,
+      "entry_price": 0.85,
+      "current_price": 0.82,
+      "current_value": 82.0,
+      "cost_basis": 85.0,
+      "pnl": -3.0,
+      "pnl_pct": -3.5294117647058822,
+      "expiration": "2026-03-20",
+      "entry_reason": "RSI 14 (extremely oversold after 15% layoff on Jan 27). Earnings this week = catalyst. Pattern matches FSLY setup (oversold + earnings = bounce). Score 5 with limited data.",
+      "date": "2026-02-13",
+      "opened_at": "2026-02-13T14:39:35.878Z"
+    },
     {
       "symbol": "FLYW260320C00010000-OPTION",
       "ticker": "FLYW",
@@ -17,11 +34,11 @@
       "type": "OPTION",
       "quantity": 1.0,
       "entry_price": 1.68,
-      "current_price": 1.35,
-      "current_value": 135.0,
+      "current_price": 1.48,
+      "current_value": 148.0,
       "cost_basis": 168.0,
-      "pnl": -33.0,
-      "pnl_pct": -19.642857142857142,
+      "pnl": -20.0,
+      "pnl_pct": -11.904761904761903,
       "expiration": "2026-03-20",
       "entry_reason": "Screener score 7 (STRONG BUY). RSI 20.3 (extremely oversold). Analyst PT $17 (+55% upside). Oversold bounce play.",
       "date": "2026-02-06",
@@ -169,13 +186,13 @@
     },
     {
       "date": "2026-02-13",
-      "time": "2026-02-13 09:30",
-      "value": 241.17000000000002
+      "time": "2026-02-13 09:40",
+      "value": 251.19
     }
   ],
   "stats": {
-    "total_trades": 4,
-    "open_trades": 1,
+    "total_trades": 5,
+    "open_trades": 2,
     "closed_trades": 3,
     "wins": 0,
     "losses": 3,
