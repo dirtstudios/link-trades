@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-02-13T15:36:00.871930+00:00",
+  "updated_at": "2026-02-13T15:45:06.355031+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 21.19,
-    "positions_value": 234.0,
-    "total_value": 255.19,
-    "total_pnl": -244.81,
-    "total_pnl_pct": -48.962,
+    "positions_value": 213.0,
+    "total_value": 234.19,
+    "total_pnl": -265.81,
+    "total_pnl_pct": -53.162,
     "total_cost_basis": 253.0
   },
   "positions": [
@@ -17,11 +17,11 @@
       "type": "OPTION",
       "quantity": 1.0,
       "entry_price": 0.85,
-      "current_price": 0.84,
-      "current_value": 84.0,
+      "current_price": 0.68,
+      "current_value": 68.0,
       "cost_basis": 85.0,
-      "pnl": -1.0,
-      "pnl_pct": -1.1764705882352942,
+      "pnl": -17.0,
+      "pnl_pct": -20.0,
       "expiration": "2026-03-20",
       "entry_reason": "RSI 14 (extremely oversold after 15% layoff on Jan 27). Earnings this week = catalyst. Pattern matches FSLY setup (oversold + earnings = bounce). Score 5 with limited data.",
       "date": "2026-02-13",
@@ -34,11 +34,11 @@
       "type": "OPTION",
       "quantity": 1.0,
       "entry_price": 1.68,
-      "current_price": 1.5,
-      "current_value": 150.0,
+      "current_price": 1.45,
+      "current_value": 145.0,
       "cost_basis": 168.0,
-      "pnl": -18.0,
-      "pnl_pct": -10.714285714285714,
+      "pnl": -23.0,
+      "pnl_pct": -13.690476190476192,
       "expiration": "2026-03-20",
       "entry_reason": "Screener score 7 (STRONG BUY). RSI 20.3 (extremely oversold). Analyst PT $17 (+55% upside). Oversold bounce play.",
       "date": "2026-02-06",
@@ -186,8 +186,8 @@
     },
     {
       "date": "2026-02-13",
-      "time": "2026-02-13 10:36",
-      "value": 255.19
+      "time": "2026-02-13 10:45",
+      "value": 234.19
     }
   ],
   "stats": {
