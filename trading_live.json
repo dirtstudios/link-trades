@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-15T23:13:32.557874+00:00",
+  "updated_at": "2026-02-16T13:10:23.004612+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 21.19,
@@ -10,23 +10,6 @@
     "total_cost_basis": 253.0
   },
   "positions": [
-    {
-      "symbol": "PINS260320C00015000-OPTION",
-      "ticker": "PINS",
-      "description": "PINS $15 Call Mar 20, '26",
-      "type": "OPTION",
-      "quantity": 1.0,
-      "entry_price": 0.85,
-      "current_price": 1.22,
-      "current_value": 122.0,
-      "cost_basis": 85.0,
-      "pnl": 37.0,
-      "pnl_pct": 43.529411764705884,
-      "expiration": "2026-03-20",
-      "entry_reason": "RSI 14 (extremely oversold after 15% layoff on Jan 27). Earnings this week = catalyst. Pattern matches FSLY setup (oversold + earnings = bounce). Score 5 with limited data.",
-      "date": "2026-02-13",
-      "opened_at": "2026-02-13T21:00:00Z"
-    },
     {
       "symbol": "FLYW260320C00010000-OPTION",
       "ticker": "FLYW",
@@ -43,6 +26,23 @@
       "entry_reason": "Screener score 7 (STRONG BUY). RSI 20.3 (extremely oversold). Analyst PT $17 (+55% upside). Oversold bounce play.",
       "date": "2026-02-06",
       "opened_at": "2026-02-06T21:00:00Z"
+    },
+    {
+      "symbol": "PINS260320C00015000-OPTION",
+      "ticker": "PINS",
+      "description": "PINS $15 Call Mar 20, '26",
+      "type": "OPTION",
+      "quantity": 1.0,
+      "entry_price": 0.85,
+      "current_price": 1.22,
+      "current_value": 122.0,
+      "cost_basis": 85.0,
+      "pnl": 37.0,
+      "pnl_pct": 43.529411764705884,
+      "expiration": "2026-03-20",
+      "entry_reason": "RSI 14 (extremely oversold after 15% layoff on Jan 27). Earnings this week = catalyst. Pattern matches FSLY setup (oversold + earnings = bounce). Score 5 with limited data.",
+      "date": "2026-02-13",
+      "opened_at": "2026-02-13T21:00:00Z"
     }
   ],
   "closed_trades": [
@@ -197,6 +197,11 @@
     {
       "date": "2026-02-15",
       "time": "2026-02-15 18:13",
+      "value": 301.19
+    },
+    {
+      "date": "2026-02-16",
+      "time": "2026-02-16 08:10",
       "value": 301.19
     }
   ],
