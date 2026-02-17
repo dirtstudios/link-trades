@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-02-17T16:00:04.820050+00:00",
+  "updated_at": "2026-02-17T16:15:06.272728+00:00",
   "account": {
     "starting_balance": 500.0,
-    "cash": 59.23,
-    "positions_value": 152.0,
-    "total_value": 211.23,
-    "total_pnl": -288.77,
-    "total_pnl_pct": -57.75399999999999,
+    "cash": 29.25,
+    "positions_value": 186.0,
+    "total_value": 215.25,
+    "total_pnl": -284.75,
+    "total_pnl_pct": -56.95,
     "total_cost_basis": 0
   },
   "positions": [
@@ -18,14 +18,31 @@
       "quantity": 1.0,
       "entry_price": 0,
       "current_price": 1.6,
-      "current_value": 152.0,
+      "current_value": 158.0,
       "cost_basis": 0,
-      "pnl": 152.0,
+      "pnl": 158.0,
       "pnl_pct": 0,
       "expiration": "",
       "entry_reason": "",
       "date": "",
       "opened_at": "2026-02-17T15:47:16.886Z"
+    },
+    {
+      "symbol": "FOXA260320C00065000",
+      "ticker": "FOXA",
+      "description": "FOXA $65 Call Mar 20, '26",
+      "type": "OPTION",
+      "quantity": 1.0,
+      "entry_price": 0,
+      "current_price": 0.3,
+      "current_value": 28.0,
+      "cost_basis": 0,
+      "pnl": 28.0,
+      "pnl_pct": 0,
+      "expiration": "",
+      "entry_reason": "",
+      "date": "",
+      "opened_at": "2026-02-17T16:04:14.155Z"
     }
   ],
   "closed_trades": [
@@ -189,8 +206,8 @@
     },
     {
       "date": "2026-02-17",
-      "time": "2026-02-17 11:00",
-      "value": 211.23
+      "time": "2026-02-17 11:15",
+      "value": 215.25
     }
   ],
   "stats": {
