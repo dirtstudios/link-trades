@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-02-17T18:04:15.867955+00:00",
+  "updated_at": "2026-02-17T18:15:05.134464+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 29.25,
-    "positions_value": 187.0,
-    "total_value": 216.25,
-    "total_pnl": -283.75,
-    "total_pnl_pct": -56.75,
+    "positions_value": 197.0,
+    "total_value": 226.25,
+    "total_pnl": -273.75,
+    "total_pnl_pct": -54.75,
     "total_cost_basis": 0
   },
   "positions": [
@@ -18,9 +18,9 @@
       "quantity": 1.0,
       "entry_price": 0,
       "current_price": 1.74,
-      "current_value": 152.0,
+      "current_value": 162.0,
       "cost_basis": 0,
-      "pnl": 152.0,
+      "pnl": 162.0,
       "pnl_pct": 0,
       "expiration": "",
       "entry_reason": "",
@@ -206,8 +206,8 @@
     },
     {
       "date": "2026-02-17",
-      "time": "2026-02-17 13:04",
-      "value": 216.25
+      "time": "2026-02-17 13:15",
+      "value": 226.25
     }
   ],
   "stats": {
