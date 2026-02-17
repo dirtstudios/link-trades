@@ -1,15 +1,33 @@
 {
-  "updated_at": "2026-02-17T15:45:04.621910+00:00",
+  "updated_at": "2026-02-17T15:47:22.300743+00:00",
   "account": {
     "starting_balance": 500.0,
-    "cash": 219.21,
-    "positions_value": 0,
-    "total_value": 219.21,
-    "total_pnl": -280.78999999999996,
-    "total_pnl_pct": -56.157999999999994,
+    "cash": 59.23,
+    "positions_value": 152.0,
+    "total_value": 211.23,
+    "total_pnl": -288.77,
+    "total_pnl_pct": -57.75399999999999,
     "total_cost_basis": 0
   },
-  "positions": [],
+  "positions": [
+    {
+      "symbol": "DOCS260320C00025000",
+      "ticker": "DOCS",
+      "description": "DOCS $25 Call Mar 20, '26",
+      "type": "OPTION",
+      "quantity": 1.0,
+      "entry_price": 0,
+      "current_price": 1.6,
+      "current_value": 152.0,
+      "cost_basis": 0,
+      "pnl": 152.0,
+      "pnl_pct": 0,
+      "expiration": "",
+      "entry_reason": "",
+      "date": "",
+      "opened_at": "2026-02-17T15:47:16.886Z"
+    }
+  ],
   "closed_trades": [
     {
       "id": 2,
@@ -171,8 +189,8 @@
     },
     {
       "date": "2026-02-17",
-      "time": "2026-02-17 10:45",
-      "value": 219.21
+      "time": "2026-02-17 10:47",
+      "value": 211.23
     }
   ],
   "stats": {
