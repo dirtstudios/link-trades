@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-18T14:15:05.320403+00:00",
+  "updated_at": "2026-02-18T14:30:03.996021+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 29.25,
@@ -11,23 +11,6 @@
   },
   "positions": [
     {
-      "symbol": "DOCS260320C00025000",
-      "ticker": "DOCS",
-      "description": "DOCS $25 Call Mar 20, '26",
-      "type": "OPTION",
-      "quantity": 1.0,
-      "entry_price": 0,
-      "current_price": 1.64,
-      "current_value": 138.0,
-      "cost_basis": 0,
-      "pnl": 138.0,
-      "pnl_pct": 0,
-      "expiration": "",
-      "entry_reason": "",
-      "date": "",
-      "opened_at": "2026-02-17T21:00:00Z"
-    },
-    {
       "symbol": "FOXA260320C00065000",
       "ticker": "FOXA",
       "description": "FOXA $65 Call Mar 20, '26",
@@ -38,6 +21,23 @@
       "current_value": 58.0,
       "cost_basis": 0,
       "pnl": 58.0,
+      "pnl_pct": 0,
+      "expiration": "",
+      "entry_reason": "",
+      "date": "",
+      "opened_at": "2026-02-17T21:00:00Z"
+    },
+    {
+      "symbol": "DOCS260320C00025000",
+      "ticker": "DOCS",
+      "description": "DOCS $25 Call Mar 20, '26",
+      "type": "OPTION",
+      "quantity": 1.0,
+      "entry_price": 0,
+      "current_price": 1.64,
+      "current_value": 138.0,
+      "cost_basis": 0,
+      "pnl": 138.0,
       "pnl_pct": 0,
       "expiration": "",
       "entry_reason": "",
@@ -275,7 +275,7 @@
     },
     {
       "date": "2026-02-18",
-      "time": "2026-02-18 09:15",
+      "time": "2026-02-18 09:30",
       "value": 225.25
     }
   ],
