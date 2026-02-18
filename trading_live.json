@@ -1,15 +1,32 @@
 {
-  "updated_at": "2026-02-18T15:30:04.112438+00:00",
+  "updated_at": "2026-02-18T15:45:05.917290+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 29.25,
-    "positions_value": 224.0,
-    "total_value": 253.25,
-    "total_pnl": -246.75,
-    "total_pnl_pct": -49.35,
+    "positions_value": 223.0,
+    "total_value": 252.25,
+    "total_pnl": -247.75,
+    "total_pnl_pct": -49.55,
     "total_cost_basis": 189.95999999999998
   },
   "positions": [
+    {
+      "symbol": "DOCS260320C00025000",
+      "ticker": "DOCS",
+      "description": "DOCS $25 Call Mar 20, '26",
+      "type": "OPTION",
+      "quantity": 1.0,
+      "entry_price": 1.6,
+      "current_price": 1.95,
+      "current_value": 188.0,
+      "cost_basis": 159.98,
+      "pnl": 28.02000000000001,
+      "pnl_pct": 17.514689336167027,
+      "expiration": "2026-03-20",
+      "entry_reason": "Screener signal. RSI oversold + earnings catalyst.",
+      "date": "2026-02-18",
+      "opened_at": "2026-02-17T21:00:00Z"
+    },
     {
       "symbol": "FOXA260320C00065000",
       "ticker": "FOXA",
@@ -18,29 +35,12 @@
       "quantity": 1.0,
       "entry_price": 0.3,
       "current_price": 0.05,
-      "current_value": 32.0,
+      "current_value": 35.0,
       "cost_basis": 29.98,
-      "pnl": 2.0199999999999996,
-      "pnl_pct": 6.737825216811206,
+      "pnl": 5.02,
+      "pnl_pct": 16.744496330887255,
       "expiration": "2026-03-20",
       "entry_reason": "Screener signal. RSI oversold.",
-      "date": "2026-02-18",
-      "opened_at": "2026-02-17T21:00:00Z"
-    },
-    {
-      "symbol": "DOCS260320C00025000",
-      "ticker": "DOCS",
-      "description": "DOCS $25 Call Mar 20, '26",
-      "type": "OPTION",
-      "quantity": 1.0,
-      "entry_price": 1.6,
-      "current_price": 1.93,
-      "current_value": 192.0,
-      "cost_basis": 159.98,
-      "pnl": 32.02000000000001,
-      "pnl_pct": 20.01500187523441,
-      "expiration": "2026-03-20",
-      "entry_reason": "Screener signal. RSI oversold + earnings catalyst.",
       "date": "2026-02-18",
       "opened_at": "2026-02-17T21:00:00Z"
     }
@@ -275,8 +275,8 @@
     },
     {
       "date": "2026-02-18",
-      "time": "2026-02-18 10:30",
-      "value": 253.25
+      "time": "2026-02-18 10:45",
+      "value": 252.25
     }
   ],
   "stats": {
