@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-18T20:00:05.961331+00:00",
+  "updated_at": "2026-02-18T20:00:14.654740+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 29.25,
@@ -10,23 +10,6 @@
     "total_cost_basis": 189.95999999999998
   },
   "positions": [
-    {
-      "symbol": "DOCS260320C00025000",
-      "ticker": "DOCS",
-      "description": "DOCS $25 Call Mar 20, '26",
-      "type": "OPTION",
-      "quantity": 1.0,
-      "entry_price": 1.6,
-      "current_price": 1.95,
-      "current_value": 215.0,
-      "cost_basis": 159.98,
-      "pnl": 55.02000000000001,
-      "pnl_pct": 34.39179897487187,
-      "expiration": "2026-03-20",
-      "entry_reason": "Screener signal. RSI oversold + earnings catalyst.",
-      "date": "2026-02-18",
-      "opened_at": "2026-02-17T21:00:00Z"
-    },
     {
       "symbol": "FOXA260320C00065000",
       "ticker": "FOXA",
@@ -41,6 +24,23 @@
       "pnl_pct": 16.744496330887255,
       "expiration": "2026-03-20",
       "entry_reason": "Screener signal. RSI oversold.",
+      "date": "2026-02-18",
+      "opened_at": "2026-02-17T21:00:00Z"
+    },
+    {
+      "symbol": "DOCS260320C00025000",
+      "ticker": "DOCS",
+      "description": "DOCS $25 Call Mar 20, '26",
+      "type": "OPTION",
+      "quantity": 1.0,
+      "entry_price": 1.6,
+      "current_price": 1.95,
+      "current_value": 215.0,
+      "cost_basis": 159.98,
+      "pnl": 55.02000000000001,
+      "pnl_pct": 34.39179897487187,
+      "expiration": "2026-03-20",
+      "entry_reason": "Screener signal. RSI oversold + earnings catalyst.",
       "date": "2026-02-18",
       "opened_at": "2026-02-17T21:00:00Z"
     }
