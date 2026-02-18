@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-02-18T15:15:04.843881+00:00",
+  "updated_at": "2026-02-18T15:30:04.112438+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 29.25,
-    "positions_value": 227.0,
-    "total_value": 256.25,
-    "total_pnl": -243.75,
-    "total_pnl_pct": -48.75,
+    "positions_value": 224.0,
+    "total_value": 253.25,
+    "total_pnl": -246.75,
+    "total_pnl_pct": -49.35,
     "total_cost_basis": 189.95999999999998
   },
   "positions": [
@@ -18,10 +18,10 @@
       "quantity": 1.0,
       "entry_price": 0.3,
       "current_price": 0.05,
-      "current_value": 35.0,
+      "current_value": 32.0,
       "cost_basis": 29.98,
-      "pnl": 5.02,
-      "pnl_pct": 16.744496330887255,
+      "pnl": 2.0199999999999996,
+      "pnl_pct": 6.737825216811206,
       "expiration": "2026-03-20",
       "entry_reason": "Screener signal. RSI oversold.",
       "date": "2026-02-18",
@@ -34,7 +34,7 @@
       "type": "OPTION",
       "quantity": 1.0,
       "entry_price": 1.6,
-      "current_price": 1.8,
+      "current_price": 1.93,
       "current_value": 192.0,
       "cost_basis": 159.98,
       "pnl": 32.02000000000001,
@@ -275,8 +275,8 @@
     },
     {
       "date": "2026-02-18",
-      "time": "2026-02-18 10:15",
-      "value": 256.25
+      "time": "2026-02-18 10:30",
+      "value": 253.25
     }
   ],
   "stats": {
