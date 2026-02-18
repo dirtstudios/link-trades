@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-02-18T19:03:19.871725+00:00",
+  "updated_at": "2026-02-18T19:15:05.584083+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 29.25,
-    "positions_value": 234.0,
-    "total_value": 263.25,
-    "total_pnl": -236.75,
-    "total_pnl_pct": -47.349999999999994,
+    "positions_value": 250.0,
+    "total_value": 279.25,
+    "total_pnl": -220.75,
+    "total_pnl_pct": -44.15,
     "total_cost_basis": 189.95999999999998
   },
   "positions": [
@@ -18,10 +18,10 @@
       "quantity": 1.0,
       "entry_price": 1.6,
       "current_price": 1.95,
-      "current_value": 202.0,
+      "current_value": 218.0,
       "cost_basis": 159.98,
-      "pnl": 42.02000000000001,
-      "pnl_pct": 26.265783222902872,
+      "pnl": 58.02000000000001,
+      "pnl_pct": 36.2670333791724,
       "expiration": "2026-03-20",
       "entry_reason": "Screener signal. RSI oversold + earnings catalyst.",
       "date": "2026-02-18",
@@ -275,8 +275,8 @@
     },
     {
       "date": "2026-02-18",
-      "time": "2026-02-18 14:03",
-      "value": 263.25
+      "time": "2026-02-18 14:15",
+      "value": 279.25
     }
   ],
   "stats": {
