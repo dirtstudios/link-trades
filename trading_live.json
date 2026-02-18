@@ -1,15 +1,32 @@
 {
-  "updated_at": "2026-02-18T14:45:52.049952+00:00",
+  "updated_at": "2026-02-18T15:00:04.543971+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 29.25,
-    "positions_value": 210.0,
-    "total_value": 239.25,
-    "total_pnl": -260.75,
-    "total_pnl_pct": -52.15,
+    "positions_value": 207.0,
+    "total_value": 236.25,
+    "total_pnl": -263.75,
+    "total_pnl_pct": -52.75,
     "total_cost_basis": 189.95999999999998
   },
   "positions": [
+    {
+      "symbol": "FOXA260320C00065000",
+      "ticker": "FOXA",
+      "description": "FOXA $65 Call Mar 20, '26",
+      "type": "OPTION",
+      "quantity": 1.0,
+      "entry_price": 0.3,
+      "current_price": 0.05,
+      "current_value": 35.0,
+      "cost_basis": 29.98,
+      "pnl": 5.02,
+      "pnl_pct": 16.744496330887255,
+      "expiration": "2026-03-20",
+      "entry_reason": "Screener signal. RSI oversold.",
+      "date": "2026-02-18",
+      "opened_at": "2026-02-17T21:00:00Z"
+    },
     {
       "symbol": "DOCS260320C00025000",
       "ticker": "DOCS",
@@ -24,23 +41,6 @@
       "pnl_pct": 7.513439179897493,
       "expiration": "2026-03-20",
       "entry_reason": "Screener signal. RSI oversold + earnings catalyst.",
-      "date": "2026-02-18",
-      "opened_at": "2026-02-17T21:00:00Z"
-    },
-    {
-      "symbol": "FOXA260320C00065000",
-      "ticker": "FOXA",
-      "description": "FOXA $65 Call Mar 20, '26",
-      "type": "OPTION",
-      "quantity": 1.0,
-      "entry_price": 0.3,
-      "current_price": 0.05,
-      "current_value": 38.0,
-      "cost_basis": 29.98,
-      "pnl": 8.02,
-      "pnl_pct": 26.751167444963308,
-      "expiration": "2026-03-20",
-      "entry_reason": "Screener signal. RSI oversold.",
       "date": "2026-02-18",
       "opened_at": "2026-02-17T21:00:00Z"
     }
@@ -275,8 +275,8 @@
     },
     {
       "date": "2026-02-18",
-      "time": "2026-02-18 09:45",
-      "value": 239.25
+      "time": "2026-02-18 10:00",
+      "value": 236.25
     }
   ],
   "stats": {
