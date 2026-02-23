@@ -1,32 +1,15 @@
 {
-  "updated_at": "2026-02-23T17:15:15.377021+00:00",
+  "updated_at": "2026-02-23T17:30:12.629921+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 10.31,
-    "positions_value": 160.0,
-    "total_value": 170.31,
-    "total_pnl": -329.69,
-    "total_pnl_pct": -65.938,
+    "positions_value": 163.0,
+    "total_value": 173.31,
+    "total_pnl": -326.69,
+    "total_pnl_pct": -65.338,
     "total_cost_basis": 40.02
   },
   "positions": [
-    {
-      "symbol": "UPST260320C00030000",
-      "ticker": "UPST",
-      "description": "UPST $30 Call Mar 20, '26",
-      "type": "OPTION",
-      "quantity": 1.0,
-      "entry_price": 0,
-      "current_price": 1.28,
-      "current_value": 132.0,
-      "cost_basis": 0,
-      "pnl": 132.0,
-      "pnl_pct": 0,
-      "expiration": "",
-      "entry_reason": "",
-      "date": "",
-      "opened_at": "2026-02-23T14:43:23.684Z"
-    },
     {
       "symbol": "CCC260320C00005000",
       "ticker": "CCC",
@@ -35,14 +18,31 @@
       "quantity": 1.0,
       "entry_price": 0.4,
       "current_price": 0.55,
-      "current_value": 28.0,
+      "current_value": 35.0,
       "cost_basis": 40.02,
-      "pnl": -12.020000000000003,
-      "pnl_pct": -30.034982508745635,
+      "pnl": -5.020000000000003,
+      "pnl_pct": -12.543728135932042,
       "expiration": "2026-03-20",
       "entry_reason": "",
       "date": "2026-02-19",
       "opened_at": "2026-02-19T21:00:00Z"
+    },
+    {
+      "symbol": "UPST260320C00030000",
+      "ticker": "UPST",
+      "description": "UPST $30 Call Mar 20, '26",
+      "type": "OPTION",
+      "quantity": 1.0,
+      "entry_price": 0,
+      "current_price": 1.28,
+      "current_value": 128.0,
+      "cost_basis": 0,
+      "pnl": 128.0,
+      "pnl_pct": 0,
+      "expiration": "",
+      "entry_reason": "",
+      "date": "",
+      "opened_at": "2026-02-23T14:43:23.684Z"
     }
   ],
   "closed_trades": [],
@@ -69,8 +69,8 @@
     },
     {
       "date": "2026-02-23",
-      "time": "2026-02-23 12:15",
-      "value": 170.31
+      "time": "2026-02-23 12:30",
+      "value": 173.31
     }
   ],
   "stats": {
