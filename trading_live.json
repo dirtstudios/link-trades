@@ -1,15 +1,32 @@
 {
-  "updated_at": "2026-02-23T15:15:16.761613+00:00",
+  "updated_at": "2026-02-23T15:30:16.062491+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 10.31,
-    "positions_value": 182.0,
-    "total_value": 192.31,
-    "total_pnl": -307.69,
-    "total_pnl_pct": -61.538000000000004,
+    "positions_value": 181.0,
+    "total_value": 191.31,
+    "total_pnl": -308.69,
+    "total_pnl_pct": -61.73800000000001,
     "total_cost_basis": 40.02
   },
   "positions": [
+    {
+      "symbol": "UPST260320C00030000",
+      "ticker": "UPST",
+      "description": "UPST $30 Call Mar 20, '26",
+      "type": "OPTION",
+      "quantity": 1.0,
+      "entry_price": 0,
+      "current_price": 1.43,
+      "current_value": 143.0,
+      "cost_basis": 0,
+      "pnl": 143.0,
+      "pnl_pct": 0,
+      "expiration": "",
+      "entry_reason": "",
+      "date": "",
+      "opened_at": "2026-02-23T14:43:23.684Z"
+    },
     {
       "symbol": "CCC260320C00005000",
       "ticker": "CCC",
@@ -26,23 +43,6 @@
       "entry_reason": "",
       "date": "2026-02-19",
       "opened_at": "2026-02-19T21:00:00Z"
-    },
-    {
-      "symbol": "UPST260320C00030000",
-      "ticker": "UPST",
-      "description": "UPST $30 Call Mar 20, '26",
-      "type": "OPTION",
-      "quantity": 1.0,
-      "entry_price": 0,
-      "current_price": 1.41,
-      "current_value": 144.0,
-      "cost_basis": 0,
-      "pnl": 144.0,
-      "pnl_pct": 0,
-      "expiration": "",
-      "entry_reason": "",
-      "date": "",
-      "opened_at": "2026-02-23T14:43:23.684Z"
     }
   ],
   "closed_trades": [],
@@ -69,8 +69,8 @@
     },
     {
       "date": "2026-02-23",
-      "time": "2026-02-23 10:15",
-      "value": 192.31
+      "time": "2026-02-23 10:30",
+      "value": 191.31
     }
   ],
   "stats": {
