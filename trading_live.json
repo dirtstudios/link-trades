@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-26T17:00:14.003405+00:00",
+  "updated_at": "2026-02-26T17:12:30.593661+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 85.38,
@@ -121,8 +121,8 @@
       "ticker": "UPST",
       "option": "UPST260320C00030000",
       "entry_price": 1.5,
-      "exit_price": 1.5,
-      "pnl": 0,
+      "exit_price": 1.7,
+      "pnl": 19.999999999999996,
       "status": "CLOSED",
       "date": "2026-02-23",
       "close_date": "2026-02-26",
@@ -167,7 +167,7 @@
     },
     {
       "date": "2026-02-26",
-      "time": "2026-02-26 12:00",
+      "time": "2026-02-26 12:12",
       "value": 265.38
     }
   ],
@@ -175,9 +175,9 @@
     "total_trades": 10,
     "open_trades": 1,
     "closed_trades": 9,
-    "wins": 2,
-    "losses": 7,
-    "best_trade": 5.03,
+    "wins": 3,
+    "losses": 6,
+    "best_trade": 19.999999999999996,
     "worst_trade": -130.97,
     "trading_since": "2026-02-06"
   }
