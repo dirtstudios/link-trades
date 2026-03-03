@@ -1,33 +1,15 @@
 {
-  "updated_at": "2026-03-03T15:45:10.200099+00:00",
+  "updated_at": "2026-03-03T16:00:07.852174+00:00",
   "account": {
     "starting_balance": 500.0,
-    "cash": 74.68,
-    "positions_value": 4.0,
-    "total_value": 78.68,
-    "total_pnl": -421.32,
-    "total_pnl_pct": -84.264,
-    "total_cost_basis": 9.22
+    "cash": 84.7,
+    "positions_value": 0,
+    "total_value": 84.7,
+    "total_pnl": -415.3,
+    "total_pnl_pct": -83.06,
+    "total_cost_basis": 0
   },
-  "positions": [
-    {
-      "symbol": "AES260320C00015000",
-      "ticker": "AES",
-      "description": "AES $15 Call Mar 20, '26",
-      "type": "OPTION",
-      "quantity": 2.0,
-      "entry_price": 0.09,
-      "current_price": 0.01,
-      "current_value": 4.0,
-      "cost_basis": 9.22,
-      "pnl": -5.220000000000001,
-      "pnl_pct": -56.61605206073753,
-      "expiration": "2026-03-20",
-      "entry_reason": "",
-      "date": "2026-03-02",
-      "opened_at": "2026-03-02T21:00:00Z"
-    }
-  ],
+  "positions": [],
   "closed_trades": [
     {
       "ticker": "GME",
@@ -206,8 +188,8 @@
     },
     {
       "date": "2026-03-03",
-      "time": "2026-03-03 10:45",
-      "value": 78.68
+      "time": "2026-03-03 11:00",
+      "value": 84.7
     }
   ],
   "stats": {
