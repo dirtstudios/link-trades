@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-03-03T21:45:17.663822+00:00",
+  "updated_at": "2026-03-04T14:02:41.632253+00:00",
   "account": {
     "starting_balance": 500.0,
-    "cash": 84.7,
+    "cash": 34.72,
     "positions_value": 0,
-    "total_value": 84.7,
-    "total_pnl": -415.3,
-    "total_pnl_pct": -83.06,
+    "total_value": 34.72,
+    "total_pnl": -465.28,
+    "total_pnl_pct": -93.056,
     "total_cost_basis": 0
   },
   "positions": [],
@@ -188,8 +188,13 @@
     },
     {
       "date": "2026-03-03",
-      "time": "2026-03-03 16:45",
+      "time": "2026-03-03 18:34",
       "value": 84.7
+    },
+    {
+      "date": "2026-03-04",
+      "time": "2026-03-04 09:02",
+      "value": 34.72
     }
   ],
   "stats": {
