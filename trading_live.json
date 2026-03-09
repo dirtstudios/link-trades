@@ -1,33 +1,15 @@
 {
-  "updated_at": "2026-03-06T21:45:07.638464+00:00",
+  "updated_at": "2026-03-09T13:03:42.582361+00:00",
   "account": {
     "starting_balance": 500.0,
     "cash": 82.72,
-    "positions_value": 0.0,
+    "positions_value": 0,
     "total_value": 82.72,
     "total_pnl": -417.28,
     "total_pnl_pct": -83.456,
     "total_cost_basis": 0
   },
-  "positions": [
-    {
-      "symbol": "JD260306C00027500",
-      "ticker": "JD",
-      "description": "JD $27.5 Call Mar 06, '26",
-      "type": "OPTION",
-      "quantity": 1.0,
-      "entry_price": 2.0,
-      "current_price": 0.01,
-      "current_value": 0.0,
-      "cost_basis": 0,
-      "pnl": 0.0,
-      "pnl_pct": 0,
-      "expiration": "",
-      "entry_reason": "",
-      "date": "2026-03-05",
-      "opened_at": "2026-03-05T21:00:00Z"
-    }
-  ],
+  "positions": [],
   "closed_trades": [
     {
       "ticker": "GME",
@@ -221,7 +203,22 @@
     },
     {
       "date": "2026-03-06",
-      "time": "2026-03-06 16:45",
+      "time": "2026-03-06 23:30",
+      "value": 82.72
+    },
+    {
+      "date": "2026-03-07",
+      "time": "2026-03-07 23:00",
+      "value": 82.72
+    },
+    {
+      "date": "2026-03-08",
+      "time": "2026-03-08 21:30",
+      "value": 82.72
+    },
+    {
+      "date": "2026-03-09",
+      "time": "2026-03-09 09:03",
       "value": 82.72
     }
   ],
