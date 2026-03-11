@@ -1,15 +1,33 @@
 {
-  "updated_at": "2026-03-11T14:00:06.695419+00:00",
+  "updated_at": "2026-03-11T14:15:30.740852+00:00",
   "account": {
     "starting_balance": 700.0,
-    "cash": 247.75,
-    "positions_value": 0,
-    "total_value": 247.75,
-    "total_pnl": -452.25,
-    "total_pnl_pct": -64.60714285714285,
-    "total_cost_basis": 0
+    "cash": 31.77,
+    "positions_value": 196.0,
+    "total_value": 227.77,
+    "total_pnl": -472.23,
+    "total_pnl_pct": -67.46142857142857,
+    "total_cost_basis": 230.02
   },
-  "positions": [],
+  "positions": [
+    {
+      "symbol": "NKE260417C00060000",
+      "ticker": "NKE",
+      "description": "NKE $60 Call Apr 17, '26",
+      "type": "OPTION",
+      "quantity": 1.0,
+      "entry_price": 2.3,
+      "current_price": 1.95,
+      "current_value": 196.0,
+      "cost_basis": 230.02,
+      "pnl": -34.02000000000001,
+      "pnl_pct": -14.790018259281807,
+      "expiration": "2026-04-17",
+      "entry_reason": "",
+      "date": "2026-03-11 10:03:15",
+      "opened_at": "2026-03-11T14:03:14.702Z"
+    }
+  ],
   "closed_trades": [
     {
       "ticker": "GME",
@@ -228,13 +246,13 @@
     },
     {
       "date": "2026-03-11",
-      "time": "2026-03-11 10:00",
-      "value": 247.75
+      "time": "2026-03-11 10:15",
+      "value": 227.77
     }
   ],
   "stats": {
-    "total_trades": 17,
-    "open_trades": 3,
+    "total_trades": 18,
+    "open_trades": 4,
     "closed_trades": 10,
     "wins": 3,
     "losses": 7,
