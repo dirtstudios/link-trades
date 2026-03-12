@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-11T20:45:30.841226+00:00",
+  "updated_at": "2026-03-12T13:03:33.131191+00:00",
   "account": {
     "starting_balance": 700.0,
     "cash": 31.77,
@@ -25,7 +25,7 @@
       "expiration": "2026-04-17",
       "entry_reason": "",
       "date": "2026-03-11 10:03:15",
-      "opened_at": "2026-03-11T14:03:14.702Z"
+      "opened_at": "2026-03-11T20:00:00Z"
     }
   ],
   "closed_trades": [
@@ -146,6 +146,22 @@
       ],
       "close_date": "2026-03-02",
       "close_reason": "trailing_stop"
+    },
+    {
+      "ticker": "JD",
+      "option": "JD260306C00027500",
+      "entry_price": 2.0,
+      "pnl": -200.0,
+      "status": "CLOSED",
+      "date": "2026-03-05",
+      "strike": 27.5,
+      "expiry": "2026-03-06",
+      "type": "CALL",
+      "notes": "Manual buy - .5 call",
+      "entry_date": "2026-03-05",
+      "close_date": "2026-03-06",
+      "close_reason": "expired",
+      "exit_price": 0.0
     }
   ],
   "equity_history": [
@@ -246,18 +262,23 @@
     },
     {
       "date": "2026-03-11",
-      "time": "2026-03-11 16:45",
+      "time": "2026-03-11 22:02",
+      "value": 211.77
+    },
+    {
+      "date": "2026-03-12",
+      "time": "2026-03-12 09:03",
       "value": 211.77
     }
   ],
   "stats": {
     "total_trades": 18,
-    "open_trades": 4,
-    "closed_trades": 10,
+    "open_trades": 3,
+    "closed_trades": 11,
     "wins": 3,
-    "losses": 7,
+    "losses": 8,
     "best_trade": 19.999999999999996,
-    "worst_trade": -130.97,
+    "worst_trade": -200.0,
     "trading_since": "2026-02-06"
   }
 }
