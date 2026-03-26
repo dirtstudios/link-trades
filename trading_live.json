@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T19:30:18.589693+00:00",
+  "updated_at": "2026-03-26T19:46:49.835136+00:00",
   "account": {
     "starting_balance": 700.0,
     "cash": 31.77,
@@ -17,7 +17,7 @@
       "type": "OPTION",
       "quantity": 1.0,
       "entry_price": 2.3,
-      "current_price": 0.55,
+      "current_price": 0.54,
       "current_value": 54.0,
       "cost_basis": 230.02,
       "pnl": -176.02,
@@ -312,7 +312,7 @@
     },
     {
       "date": "2026-03-26",
-      "time": "2026-03-26 15:30",
+      "time": "2026-03-26 15:46",
       "value": 85.77
     }
   ],
